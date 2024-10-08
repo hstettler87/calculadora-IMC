@@ -33,6 +33,7 @@ main {
 .inputs {
   display: flex;
   gap: 1rem;
+  width: 100%;
 }
 
 .label {
@@ -74,5 +75,5 @@ main {
   .app {
     margin-top: 0;
     border-radius: 0;
-  } 
+  }
 }
